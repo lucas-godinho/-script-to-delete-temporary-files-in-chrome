@@ -1,1 +1,1 @@
-# -script-to-delete-temporary-files-in-chrome
+# script-to-delete-temporary-files-in-chrome
